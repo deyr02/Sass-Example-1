@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -1605,3 +1606,9 @@ This tutorial taken from the below link
   </body>
 </html>
 
+=======
+# Sass-Example-1
+This project is basically part of learning process of SASS. 
+This tutorial taken from the below link
+https://www.youtube.com/watch?v=roywYSEPSvc
+>>>>>>> b091b047ccd07b9db516f89e6f2e623f551df693
